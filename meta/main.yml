@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: publish_final
   author: AStudio
-  description: Hopefully the last item
+  description: Hopefully the last item - 2
   company: Some company
   issue_tracker_url: '1'
   license: MIT
@@ -16,6 +16,9 @@ galaxy_info:
       versions:
         - all
     - name: macOS
+      versions:
+        - all
+    - name: Windows
       versions:
         - all
 dependencies: []
